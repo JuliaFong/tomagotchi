@@ -1,9 +1,14 @@
-# tomagotchi
+# Tomagotchi
 
 A 90's throwback! Try and keep your pet alive.
-
-![Daytime with tomagotchi](Pink_Cat.png)
-
+## Languages used:
 Made using HTML5, CSS3, Javascript and jQuery.
 
-![night time with tomagotchi](Black_cat.png)
+###User Story:
+* Name your pet
+* Has metrics to determine your pets happiness.
+* Turn night mode on!
+![Daytime with tomagotchi](pinkcat.png)
+
+
+![night time with tomagotchi](blackcat.png)
